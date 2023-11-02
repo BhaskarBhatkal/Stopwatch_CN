@@ -1,0 +1,55 @@
+body {
+    background-color: #2c3e50;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: sans-serif;
+}
+
+#container {
+    color: #d7dfe4;
+}
+
+.digit {
+    font-size: 150px;
+    font-weight: bold;
+}
+
+.txt {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#buttons {
+    text-align: center;
+    margin-top: 30px;
+}
+
+
+/* styling for all buttons */
+.btn {
+    padding: 7px 25px;
+    font-size: 15px;
+    margin: 0px 10px;
+    color: black;
+    border: 0px;
+    cursor: pointer;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+/* styling start button */
+#start {
+    background-color: #1abc9c;
+}
+
+/* styling stop button */
+#stop {
+    background-color: #3498db;
+}
+
+/* styling reset buttonm */
+#reset {
+    background-color: #e74c3c;
+}

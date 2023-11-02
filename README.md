@@ -1,5 +1,5 @@
 # Stopwatch_CN
-Author: Bhaskar.
-<br> 
-Stopwatch using HTML, CSS & Javascript.
 
+Author: Bhaskar Bhatkal.
+<br>
+Stopwatch using HTML, CSS & Javascript.
